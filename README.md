@@ -1,4 +1,5 @@
 # MemoriesAndroidApp  
+App to serve as project for the "Dezvoltare software pentru dispozitive mobile" at University
 Android App developed using Android Studio and Kotlin programming language.  
 Main theme of the app is the creation of photos and and a private gallery to store them.  
 Main functionalities:  
