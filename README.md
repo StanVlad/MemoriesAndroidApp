@@ -1,6 +1,6 @@
 # MemoriesAndroidApp  
 Android App developed using Android Studio and Kotlin programming language.  
-Main theme of the app is the possibility of creating photos and and a private gallery to store them.  
+Main theme of the app is the creation of photos and and a private gallery to store them.  
 Main functionalities:  
 - capability to take photos using the device camera  
 - app navigation using bottom navigation bar from page to page  
